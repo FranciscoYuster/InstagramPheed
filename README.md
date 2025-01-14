@@ -17,4 +17,4 @@ Este proyecto es una interfaz de usuario para un feed similar al de Instagram, c
 
 ## Cómo usarlo
 
-1. Ver repositorio aqui --> [LIVE DEMO]([https://github.com/FranciscoYuster/InstagramPheed.git](https://franciscoyuster.github.io/InstagramPheed/listview.html)).
+1. Ver repositorio aqui --> [LIVE DEMO]([https://franciscoyuster.github.io/InstagramPheed/]).
