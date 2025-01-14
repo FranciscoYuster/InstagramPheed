@@ -9,7 +9,7 @@ Este proyecto es una interfaz de usuario para un feed similar al de Instagram, c
 - **Modal:** Ventana emergente para crear una nueva publicación.
 - **Navegación de vistas:** Alterna entre vistas de cuadrícula y lista.
 
-## Tecnologías utilizadas
+## Se utilizó
 
 - **HTML5**
 - **Bootstrap 5**: Para un diseño receptivo y moderno.
@@ -17,4 +17,4 @@ Este proyecto es una interfaz de usuario para un feed similar al de Instagram, c
 
 ## Cómo usarlo
 
-1. Ver repositorio aqui --> [LIVE DEMO]([https://franciscoyuster.github.io/InstagramPheed/]).
+1. Explora el proyecto aquí: [LIVE DEMO](https://franciscoyuster.github.io/InstagramPheed/)
